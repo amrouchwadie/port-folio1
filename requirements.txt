@@ -11,4 +11,5 @@ pytz==2020.1
 six==1.14.0
 sqlparse==0.4.0
 toml==0.10.0
+whitenoise==5.2.0
 wrapt==1.12.1
