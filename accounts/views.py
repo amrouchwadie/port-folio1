@@ -22,7 +22,6 @@ def contact(request):
             message_name,
 
 
-
             ['amrouch.wadie@gmail.com'],
         )
 
